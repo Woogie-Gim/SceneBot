@@ -1,0 +1,163 @@
+[
+  {
+    "step": 1,
+    "desc": "게스트 로그인 버튼 터치",
+    "image": "btn_guest_login.png",
+    "action": "CLICK",
+    "post_delay": 3.0
+  },
+  {
+    "step": 2,
+    "desc": "게스트 로그인 경고 버튼 터치",
+    "image": "btn_guest_login_warn.png",
+    "action": "CLICK",
+    "post_delay": 2.0
+  },
+  {
+    "step": 3,
+    "desc": "알림 허용 터치",
+    "image": "notice_accept.png",
+    "action": "CLICK",
+    "post_delay": 5.0
+  },
+  {
+    "step": 4,
+    "desc": "인트로 영상 스킵 버튼 터치",
+    "image": "btn_intro_skip.png",
+    "action": "CLICK",
+    "post_delay": 2.0
+  },
+  {
+    "step": 5,
+    "desc": "인트로 영상 스킵 확인 버튼 터치",
+    "image": "btn_intro_skip_confirm.png",
+    "action": "CLICK",
+    "post_delay": 4.0
+  },
+  {
+    "step": 6,
+    "desc": "튜토리얼 시작 버튼 터치",
+    "image": "btn_tutorial_start.png",
+    "action": "CLICK",
+    "post_delay": 2.0
+  },
+  {
+    "step": 7,
+    "desc": "소환석 튜토리얼 시작 버튼 터치",
+    "image": "btn_summon_tutorial_start.png",
+    "action": "CLICK",
+    "post_delay": 2.0
+  },
+  {
+    "step": 8,
+    "desc": "상점 버튼 터치",
+    "image": "btn_shop.png",
+    "action": "CLICK",
+    "post_delay": 2.0
+  },
+  {
+    "step": 9,
+    "desc": "소환석 상점 버튼 터치",
+    "image": "btn_summon_stones_shop.png",
+    "action": "CLICK",
+    "post_delay": 2.0
+  },
+  {
+    "step": 10,
+    "desc": "포리 버튼 터치",
+    "image": "btn_pori.png",
+    "action": "CLICK",
+    "post_delay": 2.0
+  },
+  {
+    "step": 11,
+    "desc": "포리 구매 버튼 터치",
+    "image": "btn_buy_pori.png",
+    "action": "CLICK",
+    "post_delay": 5.0
+  },
+  {
+    "step": 12,
+    "desc": "포리 소환 완료 버튼 터치",
+    "image": "btn_summon_pori.png",
+    "action": "CLICK",
+    "post_delay": 2.0
+  },
+  {
+    "step": 13,
+    "desc": "상점 버튼 터치",
+    "image": "btn_shop2.png",
+    "action": "CLICK",
+    "post_delay": 2.0
+  },
+  {
+    "step": 14,
+    "desc": "서식지 상점 버튼 터치",
+    "image": "btn_habitat_shop.png",
+    "action": "CLICK",
+    "post_delay": 2.0
+  },
+  {
+    "step": 15,
+    "desc": "숲 서식지 버튼 터치",
+    "image": "btn_forest_habitat.png",
+    "action": "CLICK",
+    "post_delay": 2.0
+  },
+  {
+    "step": 16,
+    "desc": "숲 서식지 구매 버튼 터치",
+    "image": "btn_buy_forest_habitat.png",
+    "action": "CLICK",
+    "post_delay": 2.0
+  },
+  {
+    "step": 17,
+    "desc": "숲 서식지 배치 버튼 터치",
+    "image": "btn_place_forest_habitat.png",
+    "action": "CLICK",
+    "post_delay": 5.0
+  },
+  {
+    "step": 18,
+    "desc": "숲 서식지 배치 완료 터치",
+    "image": "btn_place_habitat.png",
+    "action": "CLICK",
+    "post_delay": 2.0
+  },
+  {
+    "step": 19,
+    "desc": "소환 제단 터치",
+    "image": "btn_altar.png",
+    "action": "CLICK",
+    "post_delay": 2.0
+  },
+  {
+    "step": 20,
+    "desc": "포리 소환 완료 터치",
+    "image": "btn_altar_summon_pori.png",
+    "action": "CLICK",
+    "post_delay": 2.0
+  },
+  {
+    "step": 21,
+    "desc": "포리 서식지 배치 터치",
+    "image": "btn_place_pori.png",
+    "action": "CLICK",
+    "post_delay": 2.0
+  },
+  {
+    "step": 22,
+    "desc": "포리 숲 서식지 배치 터치",
+    "image": "btn_place_forest_pori.png",
+    "action": "CLICK",
+    "post_delay": 5.0
+  },
+  {
+    "step": 23,
+    "desc": "포리 배치 완료 터치",
+    "image": "btn_place_complete_pori.png",
+    "action": "CLICK",
+    "post_delay": 2.0
+  }
+ ]
